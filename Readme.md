@@ -1,7 +1,7 @@
 # DeiT from Scratch: Experiment Report
 
 Nov 10, 2026 · @Harshit Singh
-
+Kaggle Notebook --> https://www.kaggle.com/code/harshitsinghhs/deit-research?scriptVersionId=367954512
 ## Summary
 
 Distilling a CNN teacher into a small Vision Transformer gave only small gains: about +1.8 points on CIFAR-10, +1.5 on CIFAR-100 with a ResNet50 teacher, and none on MNIST. Every number below comes from a single run.
